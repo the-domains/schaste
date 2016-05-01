@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Consulting the future
-datePublished: '2016-05-01T22:19:36.822Z'
-dateModified: '2016-05-01T22:19:13.361Z'
+datePublished: '2016-05-01T22:23:37.355Z'
+dateModified: '2016-05-01T22:23:28.222Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-01-consulting-the-future.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,12 +20,9 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-consulting-the-future.md
-published: true
 url: consulting-the-future/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08af8f00-73b7-49d4-bbc9-cfe3588958ba.png)
-
 Consulting the future
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/812e751d-b45e-4736-9cfc-e592fd89ecbc.png)
