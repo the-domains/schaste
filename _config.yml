@@ -1,7 +1,7 @@
 name: счастье
 favicon: null
-layout_spectrum: 0.8205116111785173
-typography_spectrum: 0.74257
+layout_spectrum: 0.8377038463950157
+typography_spectrum: 0.8317755521275103
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1d3380'
-    - '#ffffff'
-    - '#8b96bd'
-    - '#80ffff'
-    - '#0000ff'
-  brandStrength: 1
-  lightness: 0.6894174229819328
-  saturation: 0.75
-  rhythmicContrast: 0.5
+    - '#E7E0C8'
+    - '#1F1A17'
+    - '#B2AB9E'
+    - '#38748D'
+    - '#595148'
+  brandStrength: 0.0769275613129139
+  lightness: 0.08842813037335873
+  saturation: 0.31819947715848684
+  rhythmicContrast: 0.017586908536031842
 purpose: []
